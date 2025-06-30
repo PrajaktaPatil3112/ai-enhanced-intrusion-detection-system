@@ -19,7 +19,6 @@ conda activate cyber_ids
 
 # Clone the repository
 git clone https://github.com/PrajaktaPatil3112/ai-enhanced-intrusion-detection-system.git
-cd AI-Mushroom-Classification-Analysis-master
 
 ## **Running the Application**
 
